@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, group-title="MOVIE", 24/7 Hollywood Movies 1
+#EXTINF:-1, group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1, group-title="MOVIE", 24/7 Hollywood Movies 2
+#EXTINF:-1, group-title="MOVIE", Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1, group-title="MOVIE", 24/7 Hollywood Movies 3
+#EXTINF:-1, group-title="MOVIE", Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="MOVIE", 24/7 Hollywood Movies 4
+#EXTINF:-1, group-title="MOVIE", Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="MOVIE", 24/7 Hollywood Movies 5
+#EXTINF:-1, group-title="MOVIE", Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1,group-title="MOVIE",China Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
@@ -65,14 +63,6 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3456
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3449
 #EXTINF:-1,UK: group-title="UK Channel",BOX NATION
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3457
-#EXTINF:-1,UK: group-title="SPORTS",BT ESPN HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3458
-#EXTINF:-1,UK: group-title="SPORTS",BT Sport 1 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3459
-#EXTINF:-1,UK: group-title="SPORTS",BT Sport 2 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3460
-#EXTINF:-1,UK: group-title="SPORTS",BT Sport Europe HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3461
 #EXTINF:-1,UK: group-title="UK Channel",CBS action
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3462
 #EXTINF:-1,UK: group-title="UK Channel",Discovery Channel history
@@ -89,56 +79,12 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3467
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3468
 #EXTINF:-1,UK: group-title="UK Channel",ITV4
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3469
-#EXTINF:-1,UK: group-title="SPORTS",Liverpool FC TV
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3470
-#EXTINF:-1,UK: group-title="SPORTS",Manchester TV
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3471
 #EXTINF:-1,UK: group-title="UK Channel",More 4
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3472
 #EXTINF:-1,UK: group-title="UK Channel",Nat. Geo
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3473
 #EXTINF:-1,UK: group-title="UK Channel",Nicktoons
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3474
-#EXTINF:-1,UK: group-title="SPORTS",Premier Sports HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3475
-#EXTINF:-1,UK: group-title="SPORTS",Racing
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3476
-#EXTINF:-1,UK: group-title="SPORTS",Sky living
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3477
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Action & Adventure
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3478
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Atlantic
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3479
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Comedy
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3480
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Crime & Thriller
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3481
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Disney
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3482
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Drama & Romance
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3483
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Family
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3484
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Modern Greats
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3485
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Premiere
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3486
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Sci-fi & Horror
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3487
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 1 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3488
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 2 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3489
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 3 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3490
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 4 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3491
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 5 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3492
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports F1
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3493
-#EXTINF:-1,UK: group-title="SPORTS",Sky Sports News HQ
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3494
 #EXTINF:-1,UK: group-title="UK Channel",TLC
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3495
 #EXTINF:-1,UK: group-title="UK Channel",TMC
@@ -151,12 +97,6 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3498
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3439
 #EXTINF:-1,IT: group-title="UK Channel",Canale 5 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3436
-#EXTINF:-1,IT: group-title="UK Movies",Fox Animation HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3391
-#EXTINF:-1,IT: group-title="UK Movies",Fox Crime HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3390
-#EXTINF:-1,IT: group-title="UK Movies",FOX LIFE HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3437
 #EXTINF:-1,IT: group-title="UK Channel",LA 7
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3438
 #EXTINF:-1,IT: group-title="UK Channel",Mediaset 1
@@ -165,34 +105,6 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3410
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3406
 #EXTINF:-1,IT: group-title="UK Channel",Nat Geo Wild HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3434
-#EXTINF:-1,IT: group-title="UK Movies",Premium Action  24 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3432
-#EXTINF:-1,IT: group-title="UK Movies",Premium Action HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3431
-#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema 24 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3429
-#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema Comedy
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3433
-#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3428
-#EXTINF:-1,IT: group-title="UK Movies",Premium Comedy HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3427
-#EXTINF:-1,IT: group-title="UK Movies",Premium Crime HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3426
-#EXTINF:-1,IT: group-title="UK Movies",Premium Disney Channel
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3425
-#EXTINF:-1,IT: group-title="UK Movies",Premium Emotion HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3424
-#EXTINF:-1,IT: group-title="UK Movies",Premium Energy HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3423
-#EXTINF:-1,IT: group-title="UK Movies",Premium Joy
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3422
-#EXTINF:-1,IT: group-title="SPORTS",Premium Sport 1 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3420
-#EXTINF:-1,IT: group-title="SPORTS",Premium Sport 2 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3421
-#EXTINF:-1,IT: group-title="UK Movies",Premium Stories HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3419
 #EXTINF:-1,IT: group-title="UK Channel",Rai 1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3418
 #EXTINF:-1,IT: group-title="UK Channel",Rai 2 HD
@@ -219,24 +131,48 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3408
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3387
 #EXTINF:-1,IT: group-title="UK Channel",RSI LA 2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3386
-#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema  24 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3405
-#EXTINF:-1,IT: group-title="UK Movies",SKY CINEMA 1 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3404
-#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Comedy HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3403
-#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Cult HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3402
-#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Max HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3401
-#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Passion HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3400
-#EXTINF:-1,IT: group-title="UK Movies",Sky Discovery  Channel HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3399
-#EXTINF:-1,IT: group-title="UK Movies",Sky Disney Junior
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3430
-#EXTINF:-1,IT: group-title="UK Movies",Sky Fox HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3398
+#EXTINF:-1,IT: group-title="UK Channel",Sky Super Calcio HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3392
+#EXTINF:-1,IT: group-title="UK Channel",SKY UNO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3389
+
+
+#EXTINF:-1,UK: group-title="SPORTS",BT ESPN HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3458
+#EXTINF:-1,UK: group-title="SPORTS",BT Sport 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3459
+#EXTINF:-1,UK: group-title="SPORTS",BT Sport 2 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3460
+#EXTINF:-1,UK: group-title="SPORTS",BT Sport Europe HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3461
+#EXTINF:-1,UK: group-title="SPORTS",Liverpool FC TV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3470
+#EXTINF:-1,UK: group-title="SPORTS",Manchester TV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3471
+#EXTINF:-1,UK: group-title="SPORTS",Premier Sports HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3475
+#EXTINF:-1,UK: group-title="SPORTS",Racing
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3476
+#EXTINF:-1,UK: group-title="SPORTS",Sky living
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3477
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3488
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 2 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3489
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 3 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3490
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 4 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3491
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports 5 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3492
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports F1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3493
+#EXTINF:-1,UK: group-title="SPORTS",Sky Sports News HQ
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3494
+#EXTINF:-1,IT: group-title="SPORTS",Premium Sport 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3420
+#EXTINF:-1,IT: group-title="SPORTS",Premium Sport 2 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3421
 #EXTINF:-1,IT: group-title="SPORTS",Sky Moto GP HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3397
 #EXTINF:-1,IT: group-title="SPORTS",INTER TV
@@ -249,10 +185,6 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3395
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3394
 #EXTINF:-1,IT: group-title="SPORTS",Sky Sport F1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3393
-#EXTINF:-1,IT: group-title="UK Channel",Sky Super Calcio HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3392
-#EXTINF:-1,IT: group-title="UK Channel",SKY UNO
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3389
 #EXTINF:-1,BEIN: group-title="SPORTS",SPORT1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3385
 #EXTINF:-1,BEIN: group-title="SPORTS",SPORT2 HD
@@ -280,6 +212,80 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11040
 #EXTINF:-1,UK: group-title="SPORTS",ELEVENSPORTS 2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11039
 
+
+
+#EXTINF:-1,IT: group-title="UK Movies",Fox Animation HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3391
+#EXTINF:-1,IT: group-title="UK Movies",Fox Crime HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3390
+#EXTINF:-1,IT: group-title="UK Movies",FOX LIFE HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3437
+#EXTINF:-1,IT: group-title="UK Movies",Premium Action  24 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3432
+#EXTINF:-1,IT: group-title="UK Movies",Premium Action HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3431
+#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema 24 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3429
+#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema Comedy
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3433
+#EXTINF:-1,IT: group-title="UK Movies",Premium Cinema HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3428
+#EXTINF:-1,IT: group-title="UK Movies",Premium Comedy HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3427
+#EXTINF:-1,IT: group-title="UK Movies",Premium Crime HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3426
+#EXTINF:-1,IT: group-title="UK Movies",Premium Disney Channel
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3425
+#EXTINF:-1,IT: group-title="UK Movies",Premium Emotion HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3424
+#EXTINF:-1,IT: group-title="UK Movies",Premium Energy HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3423
+#EXTINF:-1,IT: group-title="UK Movies",Premium Joy
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3422
+#EXTINF:-1,IT: group-title="UK Movies",Premium Stories HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3419
+#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema  24 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3405
+#EXTINF:-1,IT: group-title="UK Movies",SKY CINEMA 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3404
+#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Comedy HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3403
+#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Cult HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3402
+#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Max HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3401
+#EXTINF:-1,IT: group-title="UK Movies",Sky Cinema Passion HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3400
+#EXTINF:-1,IT: group-title="UK Movies",Sky Discovery  Channel HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3399
+#EXTINF:-1,IT: group-title="UK Movies",Sky Disney Junior
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3430
+#EXTINF:-1,IT: group-title="UK Movies",Sky Fox HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3398
+
+
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Action & Adventure
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3478
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Atlantic
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3479
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Comedy
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3480
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Crime & Thriller
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3481
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Disney
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3482
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Drama & Romance
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3483
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Family
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3484
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Modern Greats
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3485
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Premiere
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3486
+#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Sci-fi & Horror
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3487
+
+
 #EXTINF:-1 , group-title="SPORTS",CCTV5+
 http://192.240.120.102:8081/live/rec_c20008.m3u8
 
@@ -293,6 +299,7 @@ http://125.227.210.37:8895/VideoInput/play.ts
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 , group-title="Discover HBO", StarMovies
 http://125.227.210.37:8898/VideoInput/play.ts
+
 #EXTINF:-1 , group-title="Taiwan", TW 原住民族电视
 http://125.227.210.37:8888/VideoInput/play.ts
 #EXTINF:-1 , group-title="Taiwan", Taiwan 1
