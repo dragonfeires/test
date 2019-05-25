@@ -93,11 +93,6 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 ,group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
-http://45.126.83.51/uq2663/h/h05/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
-http://cdn7.woideas.com/tv11.m3u8
 
 #EXTINF:-1,UK : group-title="UK Channel",Food Network
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3450
@@ -167,11 +162,11 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3385
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3383
 #EXTINF:-1,BEIN: group-title="SPORTS",SPORT3 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3382
-#EXTINF:-1,UK: group-title="SPORTS",ELEVENSPORTS HD
+#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png"group-title="SPORTS",ELEVENSPORTS HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11041
-#EXTINF:-1,UK: group-title="SPORTS",ELEVENSPORTS 1 HD
+#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png"group-title="SPORTS",ELEVENSPORTS 1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11040
-#EXTINF:-1,UK: group-title="SPORTS",ELEVENSPORTS 2 HD
+#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png"group-title="SPORTS",ELEVENSPORTS 2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11039
 
 
