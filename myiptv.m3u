@@ -134,29 +134,29 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3475
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3476
 #EXTINF:-1,UK: group-title="SPORTS",Sky living
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3477
-#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS",Sky Sports 1 HD
+#EXTINF:-1,UK: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sports 1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3488
-#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS",Sky Sports 2 HD
+#EXTINF:-1,UK: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sports 2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3489
-#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS",Sky Sports 3 HD
+#EXTINF:-1,UK: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sports 3 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3490
-#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS",Sky Sports F1
+#EXTINF:-1,UK: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sports F1
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3493
-#EXTINF:-1,UK: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS",Sky Sports News HQ
+#EXTINF:-1,UK: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sports News HQ
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3494
-#EXTINF:-1,IT: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sky_Sport_MotoGP_HD_-_Logo_2015.svg", group-title="SPORTS",Sky Moto GP HD
+#EXTINF:-1,IT: tvg-logo="http://pbs.twimg.com/profile_images/1013547267666644993/khbZuaoh_400x400.jpg", group-title="SPORTS", Sky Moto GP HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3397
 #EXTINF:-1,IT: group-title="SPORTS",INTER TV
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11104
-#EXTINF:-1,IT: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS", group-title="SPORTS",Sky Sport 1 HD
+#EXTINF:-1,IT: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sport 1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3396
-#EXTINF:-1,IT: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS", group-title="SPORTS",Sky Sport 2 HD
+#EXTINF:-1,IT: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sport 2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3395
-#EXTINF:-1,IT: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS", group-title="SPORTS",Sky Sport 24 HD
+#EXTINF:-1,IT: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", Sky Sport 24 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3394
-#EXTINF:-1,IT: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg", group-title="SPORTS", group-title="SPORTS",Sky Sport F1 HD
+#EXTINF:-1,IT: tvg-logo="http://www.europrotour.com/wp-content/uploads/2016/06/sponsors_sky-sports.jpg", group-title="SPORTS", group-title="SPORTS", Sky Sport F1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3393
-#EXTINF:-1,BEIN: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Sport1_2013.svg", group-title="SPORTS",SPORT1 HD
+#EXTINF:-1,BEIN: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Sport1_2013.svg", group-title="SPORTS", SPORT1 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3385
 #EXTINF:-1,BEIN: group-title="SPORTS",SPORT2 HD
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3383
