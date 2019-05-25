@@ -10,7 +10,7 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1, group-title="MOVIE", Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, group-title="SPORTS", NBA TV HD 
+#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", group-title="SPORTS", NBA TV HD 
 http://151.237.84.98:5199
 
 #EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Action & Adventure
