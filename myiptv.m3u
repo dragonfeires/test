@@ -13,7 +13,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1 , group-title="NEWS",无线新闻台
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="NEWS",无线新闻台
 http://192.240.120.102:8081/live/rec_c20110.m3u8
 #EXTINF:-1 , group-title="NEWS", 台视新闻HD
 http://192.240.120.102:8081/live/rec_c20345.m3u8
@@ -155,9 +155,9 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11040
 http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11039
 
 
-#EXTINF:-1 , group-title="民視三立東森", 民视HD
+#EXTINF:-1 , tvg-logo="https://www.ftv.com.tw/newtaiwan/images/ch_logo_ftv.png", group-title="民視三立東森", 民视HD
 http://192.240.120.102:8081/live/rec_c20334.m3u8
-#EXTINF:-1 , group-title="民視三立東森", 三立台湾台HD
+#EXTINF:-1 , tvg-logo="https://2.bp.blogspot.com/-QRqjY7m5r7M/WiJQ-NKnEWI/AAAAAAAAAgA/EyGsS_LtBAY1HNYk9Ucv0V5KSs_QxM_EgCLcBGAs/s1600/CH%2B29.jpg", group-title="民視三立東森", 三立台湾台HD
 http://192.240.120.102:8081/live/rec_c20340.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 民视新闻HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -167,7 +167,7 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://192.240.120.102:8081/live/rec_c20342.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 三立新闻HD2
 http://125.227.210.37:8912/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森",三立都会台HD
+#EXTINF:-1 , tvg-logo="https://3.bp.blogspot.com/-ZVwzxp1-EUs/WiI8CXlMMvI/AAAAAAAAAfk/eInTrgS2DDQalJWJqEAslPz5Y2y90TzWQCLcBGAs/s1600/CH%2B30.jpg", group-title="民視三立東森",三立都会台HD
 http://192.240.120.102:8081/live/rec_c20339.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 东森戏剧HD1
 http://125.227.210.37:8910/VideoInput/play.ts
@@ -177,21 +177,21 @@ http://125.227.210.37:8892/VideoInput/play.ts
 http://125.227.210.37:8889/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 东森洋片HD2
 http://122.146.68.116:4010/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 东森电影
+#EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影
 http://122.146.68.116:4035/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 东森电影HD1
+#EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影HD1
 http://125.227.210.37:8893/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 东森电影HD2
+#EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影HD2
 http://122.146.68.116:4035/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 中天娱乐HD1
+#EXTINF:-1 , tvg-logo="http://ext.pimg.tw/nianiacti/4a9b3e9b5b4a9.jpg", group-title="民視三立東森", 中天娱乐HD1
 http://125.227.210.37:8907/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 中天新闻HD
 http://192.240.120.102:8081/live/rec_c20369.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 中天新闻HD2
 http://125.227.210.37:8911/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 中天综合HD1
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5142331400-L.png", group-title="民視三立東森", 中天综合HD1
 http://122.146.68.116:4005/VideoInput/play.ts
-#EXTINF:-1 , group-title="民視三立東森", 中天综合HD2
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5142331400-L.png", group-title="民視三立東森", 中天综合HD2
 http://125.227.210.37:8888/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 中视HD
 http://192.240.120.102:8081/live/rec_c20367.m3u8
@@ -224,7 +224,7 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:-1 , group-title="HK Macau",HKS 香港卫视
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8?
-#EXTINF:-1 , group-title="HK Macau",J2
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P40ZG422936.jpg", group-title="HK Macau",J2
 http://192.240.120.102:8081/live/rec_c20098.m3u8
 #EXTINF:-1 , group-title="HK Macau",明珠台
 http://192.240.120.102:8081/live/rec_c20111.m3u8
@@ -246,13 +246,13 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 , group-title="HK Macau",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 , group-title="HK Macau",无线新闻台
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="HK Macau",无线新闻台
 http://192.240.120.102:8081/live/rec_c20110.m3u8
 #EXTINF:-1 , group-title="HK Macau",无线财经·资讯台1
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 #EXTINF:-1 , group-title="HK Macau",无线财经资讯台
 http://192.240.120.102:8081/live/rec_c20099.m3u8
-#EXTINF:-1 , group-title="HK Macau",TVB 無線新聞HD
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="HK Macau",TVB 無線新聞HD
 rtmp://192.187.101.234/live//live06
 #EXTINF:-1 , group-title="HK Macau",TVB 無線財經資訊HD
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
@@ -306,44 +306,44 @@ http://117.169.120.217:8080/live/fhchinese/.m3u8
 http://117.169.120.158:8080/live/fhzixun/.m3u8?icpid=88888929&from=79102&hms_devid=433,420&online=1556935535
 
 
-#EXTINF:-1 , group-title="CH New TV",Newtv明星大片
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P42616140Na.jpg", group-title="CH New TV",Newtv明星大片
 http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv惊悚悬疑
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P42622394O34.jpg", group-title="CH New TV",Newtv惊悚悬疑
 http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv金牌综艺
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg", group-title="CH New TV",Newtv金牌综艺
 http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv精品电影
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg", group-title="CH New TV",Newtv精品电影
 http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv爱情喜剧
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvxiju.jpg", group-title="CH New TV",Newtv 爱情喜剧
 http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv海外剧场
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P426224459244.jpg", group-title="CH New TV",Newtv海外剧场
 http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv健康有约
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P4262242033H.jpg", group-title="CH New TV",Newtv健康有约
 http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv电 竟
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvyouxi.jpg", group-title="CH New TV",Newtv 电竞
 http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",NewTV搏击
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426225Q10-L.jpg", group-title="CH New TV",NewTV搏击
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
 
 
-#EXTINF:-1 , group-title="CH 卫视",东方卫视
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png", group-title="CH 卫视",东方卫视
 http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 , group-title="CH 卫视",云南卫视
 #EXTINF:-1 , group-title="CH 卫视",河北卫视
 http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 , group-title="CH 卫视",浙江卫视
+#EXTINF:-1 , tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg", group-title="CH 卫视",浙江卫视
 http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 , group-title="CH 卫视",浙江卫视1
+#EXTINF:-1 , tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg", group-title="CH 卫视",浙江卫视1
 http://192.240.120.102:8081/live/rec_c20040.m3u8
 #EXTINF:-1 , group-title="CH 卫视",深圳卫视
 http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 , group-title="CH 卫视",湖北卫视
 http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 , group-title="CH 卫视",湖南卫视
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%862013logo.png", group-title="CH 卫视",湖南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 , group-title="CH 卫视",湖南卫视1
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%862013logo.png", group-title="CH 卫视",湖南卫视1
 http://192.240.120.102:8081/live/rec_c20031.m3u8
-#EXTINF:-1 , group-title="CH 卫视",广东体育
+#EXTINF:-1 , tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_6_14/a2x6b1306162150468.png", group-title="CH 卫视",广东体育
 http://192.240.120.102:8081/live/rec_c20023.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
