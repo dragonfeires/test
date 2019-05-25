@@ -1,4 +1,33 @@
 #EXTM3U
+
+#EXTINF:-1, group-title="NEWS", Bloomberg (US)
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, group-title="NEWS", Bloomberg US [720p]
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, group-title="NEWS", Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1, group-title="NEWS", Bloomberg (Asia) [720p]
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1, group-title="NEWS", Bloomberg TV (Asia|EN)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1, group-title="NEWS", CNN U.S SD
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1, group-title="NEWS", CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="NEWS", CNN
+http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1, group-title="NEWS", CNN
+http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
+#EXTINF:-1, group-title="NEWS", CNN
+http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1, group-title="NEWS", CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1, group-title="NEWS", CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1, group-title="NEWS", CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
+
 #EXTINF:-1, group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1, group-title="MOVIE", Hollywood Movies 2
