@@ -81,6 +81,9 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS",CCTV5+
 http://192.240.120.102:8081/live/rec_c20008.m3u8
 
+#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", group-title="SPORTS", NBA TV HD 
+http://151.237.84.98:5199
+
 #EXTINF:-1 ,group-title="SPORTS",ESPN 2HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
