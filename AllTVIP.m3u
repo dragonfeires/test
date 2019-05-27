@@ -28,116 +28,93 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1, group-title="MOVIE", Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", group-title="SPORTS", NBA TV HD 
-http://151.237.84.98:5199
 
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Action & Adventure
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3478
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Atlantic
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3479
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Comedy
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3480
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Crime & Thriller
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3481
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Disney
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3482
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Drama & Romance
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3483
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Family
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3484
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Modern Greats
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3485
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Premiere
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3486
-#EXTINF:-1,UK: group-title="Sky Movies",Sky Movies Sci-fi & Horror
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3487
-
-#EXTINF:-1 ,HistoryÀúÊ·ÆµµÀ
+#EXTINF:-1 ,group-title="Japan Korean", HistoryÀúÊ·ÆµµÀ
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-#EXTINF:-1 ,Miao Mi TV
+#EXTINF:-1 ,group-title="Japan Korean", Miao Mi TV
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:-1 ,QVC Japan
+#EXTINF:-1 ,group-title="Japan Korean", QVC Japan
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1 ,日-ファミリー劇場
+#EXTINF:-1 ,group-title="Japan Korean", 日-ファミリー劇場
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1 ,日-家庭劇場
+#EXTINF:-1 ,group-title="Japan Korean", 日-家庭劇場
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-#EXTINF:-1 ,日本
+#EXTINF:-1 ,group-title="Japan Korean", 日本
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-#EXTINF:-1 ,日本1
+#EXTINF:-1 ,group-title="Japan Korean", 日本1
 http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-#EXTINF:-1 ,日本2
+#EXTINF:-1 ,group-title="Japan Korean", 日本2
 http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-#EXTINF:-1 ,日本Japanet Channel DX
+#EXTINF:-1 ,group-title="Japan Korean", 日本Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 ,日本NHK WORLD
+#EXTINF:-1 ,group-title="Japan Korean", 日本NHK WORLD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 ,日本NTV News24
+#EXTINF:-1 ,group-title="Japan Korean", 日本NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,日本QVC Japan
+#EXTINF:-1 ,group-title="Japan Korean", 日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,日本Shop Channel HD
+#EXTINF:-1 ,group-title="Japan Korean", 日本Shop Channel HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 ,日本WOWOW MOVIES
+#EXTINF:-1 ,group-title="Japan Korean", 日本WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 ,日本動畫ANIPLUS HD
+#EXTINF:-1 ,group-title="Japan Korean", 日本動畫ANIPLUS HD
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 ,日本卫星剧场
+#EXTINF:-1 ,group-title="Japan Korean", 日本卫星剧场
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 ,日本映画
+#EXTINF:-1 ,group-title="Japan Korean", 日本映画
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 ,日本映画 Nihon Eiga TV
+#EXTINF:-1 ,group-title="Japan Korean", 日本映画 Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
-#EXTINF:-1 ,日本朝日台
+#EXTINF:-1 ,group-title="Japan Korean", 日本朝日台
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
-#EXTINF:-1 ,日本衛星劇場
+#EXTINF:-1 ,group-title="Japan Korean", 日本衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 ,日本频道1
+#EXTINF:-1 ,group-title="Japan Korean", 日本频道1
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1 ,日本频道2
+#EXTINF:-1 ,group-title="Japan Korean", 日本频道2
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
-#EXTINF:-1 ,日本频道4 Eisei Gekijo
+#EXTINF:-1 ,group-title="Japan Korean", 日本频道4 Eisei Gekijo
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
-#EXTINF:-1 ,日本频道5
+#EXTINF:-1 ,group-title="Japan Korean", 日本频道5
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 ,日本频道6
+#EXTINF:-1 ,group-title="Japan Korean", 日本频道6
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 ,日-歷史頻道
+#EXTINF:-1 ,group-title="Japan Korean", 日-歷史頻道
 http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-#EXTINF:-1 ,日-衛星劇場
+#EXTINF:-1 ,group-title="Japan Korean", 日-衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
 
-#EXTINF:-1 ,Kix
+#EXTINF:-1 ,group-title="Japan Korean", Kix
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 ,韓國Running Man
+#EXTINF:-1 ,group-title="Japan Korean", 韓國Running Man
 http://tx.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
-#EXTINF:-1 ,韓國音樂臺
+#EXTINF:-1 ,group-title="Japan Korean", 韓國音樂臺
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1 ,韩国Arirang South Korea HD
+#EXTINF:-1 ,group-title="Japan Korean", 韩国Arirang South Korea HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国ArirangTV
+#EXTINF:-1 ,group-title="Japan Korean", 韩国ArirangTV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1 ,韩国CBS
+#EXTINF:-1 ,group-title="Japan Korean", 韩国CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 ,韩国Chosun
+#EXTINF:-1 ,group-title="Japan Korean", 韩国Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u
-#EXTINF:-1 ,韩国EBSeHD
+#EXTINF:-1 ,group-title="Japan Korean", 韩国EBSeHD
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBS-kids
+#EXTINF:-1 ,group-title="Japan Korean", 韩国EBS-kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,韩国K PLUS HD
+#EXTINF:-1 ,group-title="Japan Korean", 韩国K PLUS HD
 http://45.126.83.51/uq2663/h/h08/01.m3u8
-#EXTINF:-1 ,韩国KBS 2
+#EXTINF:-1 ,group-title="Japan Korean", 韩国KBS 2
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
-#EXTINF:-1 ,韩国KBS1
+#EXTINF:-1 ,group-title="Japan Korean", 韩国KBS1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 ,韩国KTV
+#EXTINF:-1 ,group-title="Japan Korean", 韩国KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 ,韩国MNET HD
+#EXTINF:-1 ,group-title="Japan Korean", 韩国MNET HD
 http://198.144.156.92:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
-#EXTINF:-1 ,韩国TV
+#EXTINF:-1 ,group-title="Japan Korean", 韩国TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 ,韩国TVN HD
+#EXTINF:-1 ,group-title="Japan Korean", 韩国TVN HD
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 
 #EXTINF:-1 , group-title="CH New TV",Newtv动作电影
