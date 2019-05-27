@@ -21,6 +21,10 @@ http://192.240.120.102:8081/live/rec_c20345.m3u8
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 #EXTINF:-1 , group-title="NEWS", 东森新闻HD1
 http://125.227.210.37:8892/VideoInput/play.ts
+#EXTINF:-1 , tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/532_300.png", group-title="NEWS",SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 , tvg-logo="http://sociable.co/wp-content/uploads/2010/10/cnn.png", group-title="NEWS",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
