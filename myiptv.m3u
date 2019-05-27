@@ -94,34 +94,6 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-#EXTINF:-1,UK : group-title="UK Channel",Food Network
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3450
-#EXTINF:-1,UK: group-title="UK Channel",BBC 1
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3453
-#EXTINF:-1,UK: group-title="UK Channel",BBC 2
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3454
-#EXTINF:-1,UK: group-title="UK Channel",BBC 3
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3455
-#EXTINF:-1,UK: group-title="UK Channel",Boomerang
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3449
-#EXTINF:-1,UK: group-title="UK Channel",BOX NATION
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3457
-#EXTINF:-1,UK: group-title="UK Channel",CBS action
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3462
-#EXTINF:-1,UK: group-title="UK Channel",Discovery Channel history
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3463
-#EXTINF:-1,UK: group-title="UK Channel",E4
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3464
-#EXTINF:-1,UK: group-title="UK Channel",Gold
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3465
-
-
-#EXTINF:-1,UK: group-title="SPORTS",BT ESPN HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3458
-#EXTINF:-1,UK: group-title="SPORTS",BT Sport 1 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3459
-#EXTINF:-1,UK: group-title="SPORTS",BT Sport 2 HD
-http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3460
 
 #EXTINF:0, tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-77017-img-logo-skybtsports--default--300.png", Uk- group-title="SPORTS", Sky BT Sport 1 HD
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8582
