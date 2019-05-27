@@ -42,6 +42,8 @@ http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3434
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Kr-ebs-u.jpg" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 , tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png", group-title="KIDS", 猫和老鼠,
+https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
 #EXTINF:0, tvg-logo="http://img.hanyouwang.com/2014/1217/20141217014434718.jpg"group-title="KIDS",动漫ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
