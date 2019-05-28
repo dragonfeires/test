@@ -39,6 +39,8 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 , tvg-logo="http://logovector.net/wp-content/uploads/2010/12/121083-discovery-hd-theater-logo.gif", group-title="DOCUMENTARY", DiscoveryHD2
 http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", NATGeo HD
+http://122.146.68.116:4020/VideoInput/play.ts
 
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
