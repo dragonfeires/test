@@ -99,24 +99,20 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS",CCTV5+
 http://192.240.120.102:8081/live/rec_c20008.m3u8
-
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", group-title="SPORTS", NBA TV HD 
 http://151.237.84.98:5199
-
 #EXTINF:-1 ,group-title="SPORTS",ESPN 2HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
 #EXTINF:-1 ,group-title="SPORTS",Fox sports 1
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
 #EXTINF:-1 ,group-title="SPORTS",Fox Sports1 HD
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
 #EXTINF:-1 ,group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", 中文 ELEVEN SPORT1
+http://cdn7.woideas.com/tv11.m3u8
 
 
 #EXTINF:-1 , tvg-logo="https://www.ftv.com.tw/newtaiwan/images/ch_logo_ftv.png", group-title="民視三立東森", 民视HD
