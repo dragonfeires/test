@@ -54,24 +54,22 @@ http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1, group-title="MOVIE", Hollywood Movies 1
+#EXTINF:-1, tvg-logo="https://www.logolynx.com/images/logolynx/a7/a7a518b3094e794fddf56584b6e3b65e.png", group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="MOVIE", Hollywood Movies 2
+#EXTINF:-1, tvg-logo="http://channels.roku.com/images/3c81facb90894307a2173b2bb1f89358-hd.jpg", group-title="MOVIE", Hollywood Drama 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/movie-png-hd-file-sky-cinema-family-hd-2016-png-1445.png" group-title="MOVIE", FAMILY MOVIES 2
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/21990_logo_sky_movie_family.png", group-title="MOVIE", SKY FAMILY MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KungFuHustleHKposter.jpg", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 , group-title="MOVIE", StarMovies
+#EXTINF:-1 , tvg-logo="https://image3.mouthshut.com/images/imagesp/925596364s.png", group-title="MOVIE", StarMovies
 http://125.227.210.37:8898/VideoInput/play.ts
 #EXTINF:-1 , group-title="MOVIE", FOX HD
 http://125.227.210.37:8885/VideoInput/play.ts
 #EXTINF:-1 , group-title="MOVIE", HBO HD
 http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1 , group-title="MOVIE", HBO SD
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1, VOD : MUNAFIK 2
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
 
