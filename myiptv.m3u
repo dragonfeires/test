@@ -106,8 +106,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://192.240.120.102:8081/live/rec_c20008.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", group-title="SPORTS", NBA TV HD 
 http://151.237.84.98:5199
-#EXTINF:-1 ,group-title="SPORTS",ESPN 2HD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 ,group-title="SPORTS",Fox sports 1
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 ,group-title="SPORTS",Fox Sports1 HD
@@ -116,6 +114,20 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", 中文 ELEVEN SPORT1
 http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:-1 , tvg-logo="http://myarabicpack.com/channels/logo/bein-sports-2-hd.jpg", group-title="SPORTS", Bein Sports2HD
+http://125.227.210.37:8886/VideoInput/play.ts
+#EXTINF:-1 , tvg-logo="http://subject.lib.mcu.edu.tw/sites/default/files/u13/2011071512162169521_200X200.png", group-title="SPORTS", 体博斯魅力 HD
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 , tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg", group-title="SPORTS", 体纬来体育HD
+http://125.227.210.37:8897/VideoInput/play.ts
+#EXTINF:-1 , tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/EHD_425x243.png", group-title="SPORTS", ESPN2 HD
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 , tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.jpg", group-title="SPORTS", RED BULL TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 , tvg-logo="https://15logo.net/wp-content/uploads/2017/07/soccer-tv-800x800.jpg", group-title="SPORTS", SOCCER TV HD
+http://45.126.83.51/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg", group-title="SPORTS", Fight Sport
+http://210.210.155.35/uq2663/h/h05/index.m3u8
 
 
 #EXTINF:-1 , tvg-logo="https://www.ftv.com.tw/newtaiwan/images/ch_logo_ftv.png", group-title="民視三立東森", 民视HD
