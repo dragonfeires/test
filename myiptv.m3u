@@ -29,6 +29,8 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 , tvg-logo="http://sociable.co/wp-content/uploads/2010/10/cnn.png", group-title="NEWS",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-logo="https://chpre.org/wp-content/uploads/2017/01/BBC-World-News.png", group-title="NEWS", BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
@@ -119,8 +121,11 @@ http://cdn7.woideas.com/tv11.m3u8
 http://192.240.120.102:8081/live/rec_c20334.m3u8
 #EXTINF:-1 , tvg-logo="https://2.bp.blogspot.com/-QRqjY7m5r7M/WiJQ-NKnEWI/AAAAAAAAAgA/EyGsS_LtBAY1HNYk9Ucv0V5KSs_QxM_EgCLcBGAs/s1600/CH%2B29.jpg", group-title="民視三立東森", 三立台湾台HD
 http://192.240.120.102:8081/live/rec_c20340.m3u8
-#EXTINF:-1 , group-title="民視三立東森", 民视新闻HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+@EXTINF:-1 , group-title="民視三立東森", 民视新闻HDhttps://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 , group-title="民視三立東森", 民視新聞
+http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 民視
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 三立新闻HD
@@ -353,5 +358,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 28/05/2019] MYStarTV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 29/05/2019] MYStarTV
 http://live.streamingfast.net/osmflivech9.m3u8
