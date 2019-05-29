@@ -4,11 +4,20 @@
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="NEWS", CNN
 http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
-
 #EXTINF:-1, group-title="NEWS", CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1, group-title="NEWS", CBSN HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png", group-title="SPORTS", 中文 ELEVEN SPORT1
+http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:-1 , group-title="SPORTS", FUBO | FISH
+http://danntvh.dyndns.org:8000/live/peppe/peppe/223.ts
+#EXTINF:-1 , group-title="SPORTS", FUBO | FOX 1
+http://danntvh.dyndns.org:8000/live/peppe/peppe/225.ts
+#EXTINF:-1 , group-title="SPORTS", FUBO | FOX 2
+http://danntvh.dyndns.org:8000/live/peppe/peppe/226.ts
+
 
 #EXTINF:-1, group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
