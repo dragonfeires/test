@@ -58,18 +58,19 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 , tvg-logo="http://logovector.net/wp-content/uploads/2010/12/121083-discovery-hd-theater-logo.gif", group-title="DOCUMENTARY", DiscoveryHD2
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", NATGeo HD
+#EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", NATGeo HD
 http://122.146.68.116:4020/VideoInput/play.ts
-
+#EXTINF:-1 , tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", AINMAL动物星球
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Kr-ebs-u.jpg" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png", group-title="KIDS", 猫和老鼠
-https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
 #EXTINF:0, tvg-logo="http://img.hanyouwang.com/2014/1217/20141217014434718.jpg"group-title="KIDS", 动漫ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network (CST)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
@@ -358,5 +359,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 29/05/2019] MYStarTV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 28/05/2019] MYStarTV
 http://live.streamingfast.net/osmflivech9.m3u8
