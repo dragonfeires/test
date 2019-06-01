@@ -13,8 +13,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="NEWS",无线新闻台
-http://192.240.120.102:8081/live/rec_c20110.m3u8
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="NEWS",无线财经
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1 , group-title="NEWS", 台视新闻HD
 http://192.240.120.102:8081/live/rec_c20345.m3u8
 #EXTINF:-1 , group-title="NEWS", 壹新聞
@@ -22,7 +22,7 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 #EXTINF:-1 , group-title="NEWS", 东森新闻HD1
 http://125.227.210.37:8892/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="NEWS",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 , tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/532_300.png", group-title="NEWS",SkyNews
@@ -99,7 +99,8 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 
 @EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
+#EXTINF:0, group-title="SPORTS", 皇马足球台
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS",CCTV5+
@@ -147,6 +148,8 @@ http://192.240.120.102:8081/live/rec_c20342.m3u8
 http://125.227.210.37:8912/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://3.bp.blogspot.com/-ZVwzxp1-EUs/WiI8CXlMMvI/AAAAAAAAAfk/eInTrgS2DDQalJWJqEAslPz5Y2y90TzWQCLcBGAs/s1600/CH%2B30.jpg", group-title="民視三立東森",三立都会台HD
 http://192.240.120.102:8081/live/rec_c20339.m3u8
+#EXTINF:0, group-title="民視三立東森", CTI中天娛樂
+http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 东森戏剧HD1
 http://125.227.210.37:8910/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 东森新闻HD1
@@ -176,13 +179,7 @@ http://192.240.120.102:8081/live/rec_c20367.m3u8
 #EXTINF:-1 , group-title="民視三立東森", 中视新闻HD
 http://192.240.120.102:8081/live/rec_c20368.m3u8
 
-#EXTINF:-1 , group-title="Taiwan", 台湾GOOD-2生活台
-http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 , group-title="Taiwan", 台湾GOOD-3真情部落格
-http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 , group-title="Taiwan", 台湾GOOD-5共享观点
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 , group-title="Taiwan", 台湾GOOD-9爱+好医生
+
 http://live.streamingfast.net/osmflivech9.m3u8
 #EXTINF:-1 , group-title="Taiwan", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/master.m3u8
@@ -204,18 +201,6 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8?
 #EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P40ZG422936.jpg", group-title="HK Macau",J2
 http://192.240.120.102:8081/live/rec_c20098.m3u8
-#EXTINF:-1 , group-title="HK Macau",明珠台
-http://192.240.120.102:8081/live/rec_c20111.m3u8
-#EXTINF:-1 , group-title="HK Macau",翡翠台
-http://192.240.120.102:8081/live/rec_c20106.m3u8
-#EXTINF:-1 , group-title="HK Macau",翡翠台1
-http://192.240.120.102:8081/live/rec_c20064.m3u8
-#EXTINF:-1 , group-title="HK Macau",TVB翡翠台1
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 , group-title="HK Macau",TVB翡翠台 HD2
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 , group-title="HK Macau",天映电影频道
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:-1 , group-title="HK Macau",香港18台
 rtmp://wv1.tp33.net/sat/hk041
 #EXTINF:-1 , group-title="HK Macau",香港31台HD
@@ -230,12 +215,10 @@ http://192.240.120.102:8081/live/rec_c20110.m3u8
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 #EXTINF:-1 , group-title="HK Macau",无线财经资讯台
 http://192.240.120.102:8081/live/rec_c20099.m3u8
-#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="HK Macau",TVB 無線新聞HD
-rtmp://192.187.101.234/live//live06
-#EXTINF:-1 , group-title="HK Macau",TVB 無線財經資訊HD
+@#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="HK Macau",TVB 無線新聞HD
+@rtmp://192.187.101.234/live//live06
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="HK Macau",TVB 無線財經資訊HD
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1 , group-title="HK Macau",TVB翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.ts
 #EXTINF:-1 , group-title="HK Macau",TVB money
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1 , group-title="HK Macau",星卫电影台
@@ -244,11 +227,10 @@ http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 , group-title="HK Macau",衛視卡式台
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
-#EXTINF:-1 , group-title="HK Macau",有线新闻台
+#EXTINF:-1 , group-title="HK Macau", 有线新闻台
 http://192.240.120.102:8081/live/rec_c20097.m3u8
-#EXTINF:-1 , group-title="HK Macau",本港臺
-#EXTINF:-1 , group-title="HK Macau",凤凰香港HD
-http://192.240.120.102:8081/live/rec_c20107.m3u8
+#EXTINF:-1 , group-title="HK Macau", 凤凰香港HD
+http://223.82.250.72/live/fhhongkong/1.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 , group-title="HK Macau",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
@@ -371,5 +353,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 28/05/2019] MYStarTV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 1/06/2019] MYStarTV
 http://live.streamingfast.net/osmflivech9.m3u8
