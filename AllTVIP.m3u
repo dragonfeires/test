@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", Bloomberg TV (Asia|EN)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", Bloomberg US [720p]
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, group-title="NEWS", CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1, group-title="NEWS", CBSN HD
@@ -9,10 +13,29 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=1
 
 #EXTINF:-1 , tvg-logo="https://thedisneyblog.com/wp-content/uploads/2015/11/walt-disney-animation-studios-logo-2014.jpg", group-title="KIDS", Disney animation movies
 http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1, group-title="KIDS", 优漫卡通
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1, group-title="KIDS", 蜡笔小新
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:-1, group-title="KIDS", 炫动卡通
+http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8
+#EXTINF:-1, group-title="KIDS", Miao Mi
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1, group-title="KIDS", Miao Mi HD
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1, group-title="KIDS", BabyFirst 中文
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png", group-title="SPORTS", 中文 ELEVEN SPORT1
 http://cdn7.woideas.com/tv11.m3u8
-
+#EXTINF:-1, group-title="SPORTS", SportChannel 1
+http://93.155.247.249/m3u8/arenasport1.m3u8
+#EXTINF:-1, group-title="SPORTS", SportChannel 2
+http://93.155.247.249/m3u8/arenasport2.m3u8
+#EXTINF:-1, group-title="SPORTS", SportChannel 3
+http://93.155.247.249/m3u8/arenasport3.m3u8
+#EXTINF:-1, group-title="SPORTS",  SportChannel 4
+http://93.155.247.249/m3u8/arenasport4.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.logolynx.com/images/logolynx/a7/a7a518b3094e794fddf56584b6e3b65e.png", group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
