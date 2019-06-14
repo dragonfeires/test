@@ -58,6 +58,14 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://122.146.68.116:4020/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", AINMAL动物星球
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, group-title="DOCUMENTARY", 台DiscoveryHD1
+http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1, group-title="DOCUMENTARY", 台DiscoveryHD2
+http://125.227.210.37:8896/VideoInput/play.ts
+#EXTINF:-1, group-title="DOCUMENTARY", 台国家地理杂志HD
+http://122.146.68.116:4020/VideoInput/play.ts
+#EXTINF:-1, group-title="DOCUMENTARY", SCIENCE CHANNEL
+http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
@@ -129,7 +137,8 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 
 @EXTINF:-1 , tvg-logo="https://2.bp.blogspot.com/-QRqjY7m5r7M/WiJQ-NKnEWI/AAAAAAAAAgA/EyGsS_LtBAY1HNYk9Ucv0V5KSs_QxM_EgCLcBGAs/s1600/CH%2B29.jpg", group-title="民視三立東森", 三立台湾台HD
 
-
+#EXTINF:-1, group-title="民視三立東森", 台三立综合HD
+http://122.146.68.116:4075/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 三立新闻HD2
 http://125.227.210.37:8912/VideoInput/play.ts
 #EXTINF:0, group-title="民視三立東森", CTI中天娛樂
@@ -173,6 +182,8 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8?
 #EXTINF:-1 , group-title="HK Macau",香港31台HD
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1, group-title="HK Macau", RHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1 , group-title="HK Macau",香港奇妙电视HD
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 , group-title="HK Macau",香港开电视
