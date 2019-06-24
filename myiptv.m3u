@@ -15,9 +15,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg", group-title="NEWS",无线财经
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1 , group-title="NEWS", 壹新聞
+#EXTINF:-1 , tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/ae/e2/c2/aee2c201-7bd3-66c0-2bfb-069d0a6daa94/mzl.uxczpapg.png/246x0w.jpg", group-title="NEWS", 壹新聞
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-#EXTINF:-1 , group-title="NEWS", 东森新闻HD1
+#EXTINF:-1 , tvg-logo="https://babylon.com.tw/wp-content/uploads/2018/06/ebc-news-live-565x318.jpg", group-title="NEWS", 东森新闻HD1
 http://125.227.210.37:8892/VideoInput/play.ts
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="NEWS",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
@@ -52,19 +52,19 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
 #EXTINF:0, group-title="DOCUMENTARY", NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-#EXTINF:-1 , tvg-logo="http://logovector.net/wp-content/uploads/2010/12/121083-discovery-hd-theater-logo.gif", group-title="DOCUMENTARY", DiscoveryHD2
+#EXTINF:0, tvg-logo="http://logovector.net/wp-content/uploads/2010/12/121083-discovery-hd-theater-logo.gif", group-title="DOCUMENTARY", DiscoveryHD2
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", NATGeo HD
+#EXTINF:0, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", NATGeo HD
 http://122.146.68.116:4020/VideoInput/play.ts
-#EXTINF:-1 , tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", AINMAL动物星球
+#EXTINF:0, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple20/v4/88/a6/b4/88a6b4bb-6645-4f63-782c-b8272eb36f8d/mzl.xnlavtpf.png/246x0w.png", group-title="DOCUMENTARY", AINMAL动物星球
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1, group-title="DOCUMENTARY", 台DiscoveryHD1
+#EXTINF:0, group-title="DOCUMENTARY", 台DiscoveryHD1
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1, group-title="DOCUMENTARY", 台DiscoveryHD2
+#EXTINF:0, group-title="DOCUMENTARY", 台DiscoveryHD2
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:-1, group-title="DOCUMENTARY", 台国家地理杂志HD
+#EXTINF:0, group-title="DOCUMENTARY", 台国家地理杂志HD
 http://122.146.68.116:4020/VideoInput/play.ts
-#EXTINF:-1, group-title="DOCUMENTARY", SCIENCE CHANNEL
+#EXTINF:0, group-title="DOCUMENTARY", SCIENCE CHANNEL
 http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
@@ -251,18 +251,19 @@ http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
 
 
-#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png", group-title="CH 卫视",东方卫视
+#EXTINF:-1 , 
+tvg-logo="https://img.zcool.cn/community/01f39755e013dd6ac7251df8ebba92.jpg@1280w_1l_2o_100sh.jpg", group-title="CH 卫视",东方卫视
 http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 , group-title="CH 卫视",云南卫视
-#EXTINF:-1 , group-title="CH 卫视",河北卫视
+#EXTINF:-1 , tvg-logo="http://img.badouxia.com/Uploads/vod/2019-01-20/5c442fb5063a0.jpg", group-title="CH 卫视",河北卫视
 http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
 #EXTINF:-1 , tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg", group-title="CH 卫视",浙江卫视
 http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
 #EXTINF:-1 , tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg", group-title="CH 卫视",浙江卫视1
 http://192.240.120.102:8081/live/rec_c20040.m3u8
-#EXTINF:-1 , group-title="CH 卫视",深圳卫视
+#EXTINF:-1 , tvg-logo="http://www.logo11.cn//uploads/allimg/171219/1_171219121417_1.jpg", group-title="CH 卫视",深圳卫视
 http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 , group-title="CH 卫视",湖北卫视
+#EXTINF:-1 , tvg-logo="http://ku.90sjimg.com/element_origin_min_pic/18/01/05/f7c3bab007e60546cf09153af9438f2a.jpg", group-title="CH 卫视",湖北卫视
 http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%862013logo.png", group-title="CH 卫视",湖南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
