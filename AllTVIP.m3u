@@ -51,6 +51,26 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1, tvg-logo="https://www.logolynx.com/images/logolynx/a7/a7a518b3094e794fddf56584b6e3b65e.png", group-title="MOVIE", Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
+#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
 
 #EXTINF:-1 ,group-title="Japan Korean", HistoryÀúÊ·ÆµµÀ
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
