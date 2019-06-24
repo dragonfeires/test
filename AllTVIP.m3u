@@ -19,23 +19,26 @@ http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
 #EXTINF:-1, group-title="KIDS", 炫动卡通
 http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8
+#EXTINF:-1 , group-title="KIDS", CN卡通
+http://125.227.210.37:8887/VideoInput/play.ts
 #EXTINF:-1, group-title="KIDS", Miao Mi
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1, group-title="KIDS", Miao Mi HD
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1, group-title="KIDS", BabyFirst 中文
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/236x/1e/54/75/1e5475e63e7183eb7391444402afd010--baby-first-tv-birthday-party-ideas-birthday-ideas.jpg", group-title="KIDS", BabyFirst 中文
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 , group-title="DOCUMENTARY", Discovery Channel HD [720p]
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 , group-title="DOCUMENTARY", CLASSIC ARTS SHOWCASE [720p]
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png", group-title="SPORTS", 中文 ELEVEN SPORT1
 http://cdn7.woideas.com/tv11.m3u8
-#EXTINF:-1, group-title="SPORTS", SportChannel 1
-http://93.155.247.249/m3u8/arenasport1.m3u8
-#EXTINF:-1, group-title="SPORTS", SportChannel 2
-http://93.155.247.249/m3u8/arenasport2.m3u8
-#EXTINF:-1, group-title="SPORTS", SportChannel 3
-http://93.155.247.249/m3u8/arenasport3.m3u8
-#EXTINF:-1, group-title="SPORTS",  SportChannel 4
-http://93.155.247.249/m3u8/arenasport4.m3u8
+#EXTINF:-1 , tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png", group-title="SPORTS", BEIN体育2
+http://125.227.210.37:8886/VideoInput/play.ts
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png", group-title="SPORTS", FOX3HD体育
+http://122.146.68.116:4047/VideoInput/play.ts
 
 #EXTINF:-1, tvg-logo="https://www.logolynx.com/images/logolynx/a7/a7a518b3094e794fddf56584b6e3b65e.png", group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
@@ -137,11 +140,11 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 ,group-title="Japan Korean", 韩国TVN HD
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 
-#EXTINF:-1 , group-title="CH New TV",Newtv动作电影
+#EXTINF:-1 , tvg-logo="http://pic.iask.cn/fimg/42185178674.jpg", group-title="CH New TV",Newtv动作电影
 http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv动画王国
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdonghua.jpg", group-title="CH New TV",Newtv动画王国
 http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv古装剧场
+#EXTINF:-1 , tvg-logo="http://www.nettv.live/uploads/18/1-1P4262246003C.jpg", group-title="CH New TV",Newtv古装剧场
 http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",Newtv明星大片
 http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
@@ -153,11 +156,11 @@ http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",Newtv爱情喜剧
 http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv精品大剧
+#EXTINF:-1 , tvg-logo="http://www.lizhizu.com/uploads/images/20180620/fe4b9000a7bb7af03ce6ca0ac55e004c.jpg", group-title="CH New TV",Newtv精品大剧
 http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",Newtv精品记录
 http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv精品体育
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg", group-title="CH New TV",Newtv精品体育
 http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",Newtv海外剧场
 http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
@@ -167,18 +170,18 @@ http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",NewTV搏击
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv军旅剧场
+#EXTINF:-1 , tvg-logo="http://www.lizhizu.com/uploads/images/20180620/f51221e67271b2dfda84e5b62c28bbc6.jpg", group-title="CH New TV",Newtv军旅剧场
 http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv家庭剧场
+#EXTINF:-1 , tvg-logo="http://www.lizhizu.com/uploads/images/20180620/7b8eaaf6726cf4f8c6f99a2524c90d4f.jpg", group-title="CH New TV",Newtv家庭剧场
 http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv搏击剧场
+#EXTINF:-1 , tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvboji.jpg", group-title="CH New TV",Newtv搏击剧场
 http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv中国功夫
+#EXTINF:-1 , tvg-logo="https://tvvtvv.com/upload/vod/2019-04-29/201904291556467742.png", group-title="CH New TV",Newtv中国功夫
 http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 , group-title="CH New TV",NewTV潮妈辣婆
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8
-#EXTINF:-1 , group-title="CH New TV",Newtv军事评论
+#EXTINF:-1 , tvg-logo="http://pic.iask.cn/fimg/18096178704.jpg", group-title="CH New TV",Newtv军事评论
 http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 14/06/2019] MYVIP
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 24/06/2019] MYVIP
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
