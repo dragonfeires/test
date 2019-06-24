@@ -124,7 +124,7 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 , tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg", group-title="SPORTS", 体纬来体育HD
 http://125.227.210.37:8897/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/EHD_425x243.png", group-title="SPORTS", ESPN2 HD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 , tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.jpg", group-title="SPORTS", RED BULL TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 , tvg-logo="https://15logo.net/wp-content/uploads/2017/07/soccer-tv-800x800.jpg", group-title="SPORTS", SOCCER TV HD
@@ -151,8 +151,6 @@ http://125.227.210.37:8892/VideoInput/play.ts
 http://125.227.210.37:8889/VideoInput/play.ts
 #EXTINF:-1 , group-title="民視三立東森", 东森洋片HD2
 http://122.146.68.116:4010/VideoInput/play.ts
-#EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影
-http://122.146.68.116:4035/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影HD1
 http://125.227.210.37:8893/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://www.itsfun.com.tw/images/a0/7e/n5GcugjNzEWZxMmNjZjNjFTMlZTMwQ3Lt92Yuc2cthWcuw2cz5SMw9yL6MHc0RHa.jpg", group-title="民視三立東森", 东森电影HD2
@@ -320,5 +318,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 14/06/2019] MYStarTV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 24/06/2019] MYStarTV
 http://live.streamingfast.net/osmflivech9.m3u8
