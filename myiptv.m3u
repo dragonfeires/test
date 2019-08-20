@@ -19,6 +19,8 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 #EXTINF:-1 , tvg-logo="https://babylon.com.tw/wp-content/uploads/2018/06/ebc-news-live-565x318.jpg", group-title="NEWS", 东森新闻HD1
 http://125.227.210.37:8892/VideoInput/play.ts
+#EXTINF:-1 , tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2014/05/ABC-News-Logo.jpg", group-title="NEWS", ABC News (HD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="NEWS",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 , tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/532_300.png", group-title="NEWS",SkyNews
@@ -45,6 +47,10 @@ https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="MALAYSIA",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142601
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
@@ -71,13 +77,18 @@ http://80.80.160.168/live/9/live.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Kr-ebs-u.jpg" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:0, tvg-logo="http://img.hanyouwang.com/2014/1217/20141217014434718.jpg"group-title="KIDS", 动漫ANIME
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network (CST)
+
+@#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network (CST)
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+@#EXTINF:0, tvg-logo="http://img.hanyouwang.com/2014/1217/20141217014434718.jpg"group-title="KIDS", 动漫ANIME
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/12/hbo-logo.jpg",group-title="MOVIE",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 , tvg-logo="http://teve.ba/img/articles/2753.jpg", group-title="MOVIE", HBO [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1, tvg-logo="https://www.logolynx.com/images/logolynx/a7/a7a518b3094e794fddf56584b6e3b65e.png", group-title="MOVIE", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="http://channels.roku.com/images/3c81facb90894307a2173b2bb1f89358-hd.jpg", group-title="MOVIE", Hollywood Drama 2
@@ -88,13 +99,15 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KungFuHustleHKposter.jpg", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 , tvg-logo="https://image3.mouthshut.com/images/imagesp/925596364s.png", group-title="MOVIE", StarMovies
+
+
+@#EXTINF:-1 , tvg-logo="https://image3.mouthshut.com/images/imagesp/925596364s.png", group-title="MOVIE", StarMovies
 http://125.227.210.37:8898/VideoInput/play.ts
-#EXTINF:-1 , group-title="MOVIE", FOX HD
+@#EXTINF:-1 , group-title="MOVIE", FOX HD
 http://125.227.210.37:8885/VideoInput/play.ts
-#EXTINF:-1 , group-title="MOVIE", HBO HD
+@#EXTINF:-1 , group-title="MOVIE", HBO HD
 http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1, VOD : MUNAFIK 2
+@#EXTINF:-1, VOD : MUNAFIK 2
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
 
 
@@ -115,23 +128,30 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 ,group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", 中文 ELEVEN SPORT1
-http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 , tvg-logo="http://myarabicpack.com/channels/logo/bein-sports-2-hd.jpg", group-title="SPORTS", Bein Sports2HD
 http://125.227.210.37:8886/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="http://subject.lib.mcu.edu.tw/sites/default/files/u13/2011071512162169521_200X200.png", group-title="SPORTS", 体博斯魅力 HD
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 , tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg", group-title="SPORTS", 体纬来体育HD
-http://125.227.210.37:8897/VideoInput/play.ts
 #EXTINF:-1 , tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/EHD_425x243.png", group-title="SPORTS", ESPN2 HD
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 , tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.jpg", group-title="SPORTS", RED BULL TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 , tvg-logo="https://15logo.net/wp-content/uploads/2017/07/soccer-tv-800x800.jpg", group-title="SPORTS", SOCCER TV HD
-http://45.126.83.51/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg", group-title="SPORTS", Fight Sport
-http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 , tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.jpg", group-title="SPORTS", RED BULL TV (2+)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 , MLB NETWORK (1+)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 , MLB NETWORK PUBLIC-SPORTS ENGLISH
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
 
+
+@#EXTINF:-1 , tvg-logo="https://15logo.net/wp-content/uploads/2017/07/soccer-tv-800x800.jpg", group-title="SPORTS", SOCCER TV HD
+http://45.126.83.51/uq2663/h/h20/index2.m3u8
+@#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg", group-title="SPORTS", Fight Sport
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+@#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", 中文 ELEVEN SPORT1
+http://cdn7.woideas.com/tv11.m3u8
+@#EXTINF:-1 , tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg", group-title="SPORTS", 体纬来体育HD
+http://125.227.210.37:8897/VideoInput/play.ts
 
 @EXTINF:-1 , tvg-logo="https://www.ftv.com.tw/newtaiwan/images/ch_logo_ftv.png", group-title="民視三立東森", 民视HD
 
@@ -319,5 +339,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 24/06/2019] MYStarTV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star_tv_tanzania.png/220px-Star_tv_tanzania.png" group-title="UPDATED",[UPDATED 20/08/2019] MYStarTV
 http://live.streamingfast.net/osmflivech9.m3u8
